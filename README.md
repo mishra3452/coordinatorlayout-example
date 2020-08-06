@@ -11,9 +11,9 @@ This project contains the example of Coordinator Layout that is used in Andorid.
 ## Screenshots from this project
 
 <p align="center">
-  <img src="https://github.com/mishra3452/CoordinatorLayout-Example/blob/master/assets/scroll.gif" width="250">
-  <img src="https://github.com/mishra3452/CoordinatorLayout-Example/blob/master/assets/enterAlways.gif" width="250">
-  <img src="https://github.com/mishra3452/CoordinatorLayout-Example/blob/master/assets/enterAlwaysCollapsed.gif" width="250">
+  <img src="https://github.com/mishra3452/CoordinatorLayout-Example/blob/master/assets/scroll.gif" width="250" height="500">
+  <img src="https://github.com/mishra3452/CoordinatorLayout-Example/blob/master/assets/enterAlways.gif" width="250" height="500">
+  <img src="https://github.com/mishra3452/CoordinatorLayout-Example/blob/master/assets/enterAlwaysCollapsed.gif" width="250" height="500">
 </p>
 <br>
 
