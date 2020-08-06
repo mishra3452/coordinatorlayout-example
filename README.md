@@ -5,7 +5,7 @@
 </p>
 <br>
 
-## About this Open Source Project
+## About this Project
 This project contains the example of Coordinator Layout that is used in Andorid. You can read the whole blog article based on this project from [here](https://blog.mindorks.com/using-coordinator-layout-in-android).  
 
 ## Screenshots from this project
